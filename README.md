@@ -1,6 +1,6 @@
 # Novo Hackathon 2023
 
-#We need the communities help to raise one billion novo to get this thing going! [Donate Here!](https://novo.money/fundraising)
+#We need the communities help to raise one billion novo to get this thing going! [Donate Here!](https://novo.money/fundraising)#
 
 ### 💫 **Intro**
 
