@@ -1,4 +1,3 @@
-# Final Awards 
 
 ## Projects
 
