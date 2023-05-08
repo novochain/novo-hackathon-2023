@@ -1,6 +1,7 @@
 # Novo Hackathon 2023
 
 ~~We need the communities help to raise one billion novo to get this thing going! [Donate Here!](https://novo.money/fundraising)~~ 
+
 We were able to raise 2 billion novo! 🎉
 
 ### 💫 **Intro**
@@ -39,7 +40,7 @@ Follow the [template](https://github.com/novoworks/novo-hackathon-2022/issues/1)
 
 Here is the total amount of prize:
 
-- **1,000,000,000 NOVO**
+- **2,000,000,000 NOVO**
 
 More details will be released once the amount is raised.
 
