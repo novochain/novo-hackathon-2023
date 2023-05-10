@@ -6,7 +6,7 @@ We were able to raise 2 billion novo! 🎉
 
 ### 💫 **Intro**
 
-We are excited to host the second Novo hackathon in coming weeks **(#, 2023 - #, 2023)**. 
+We are excited to host the second Novo hackathon in coming weeks **(May 19th, 2023 - July 19th, 2023)**. 
 
 **`Open-Source`** The goal of the hackathon is to create open-source solutions that allows users to utilize the chain in various ways. 
 
@@ -19,7 +19,6 @@ We are excited to host the second Novo hackathon in coming weeks **(#, 2023 - #,
 We encourage new projects and tools in these fields:
 
 - Wallets
-- Mining Programs
 - Development Libraries
 - Token and NFT Protocols
 - Smart Contracts
@@ -41,8 +40,6 @@ Follow the [template](https://github.com/novoworks/novo-hackathon-2022/issues/1)
 Here is the total amount of prize:
 
 - **2,000,000,000 NOVO**
-
-More details will be released once the amount is raised.
 
 ### 🌐 Links
 
